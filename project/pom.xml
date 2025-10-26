@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>es.uclm.esi.iso2.a22</groupId>
+  <artifactId>project</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <name>project</name>
+  <url>http://www.example.com</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter-engine</artifactId>
+      <version>5.7.1</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter-params</artifactId>
+      <version>5.7.1</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.0.0-M5</version>
+      </plugin>
+    </plugins>
+  </build>
+  <modules>
+  	<module>Component_1</module>
+  	<module>Component_2</module>
+  	<module>Component_3</module>
+  	<module>Component_4</module>
+  	<module>Component_5</module>
+  	<module>Component_6</module>
+  	<module>Component_7</module>
+  	<module>Component_8</module>
+  	<module>Component_9</module>
+  	<module>Component_10</module>
+  	<module>Component_11</module>
+  	<module>Component_12</module>
+  	<module>Component_13</module>
+  	<module>Component_14</module>
+  	<module>Component_15</module>
+  	<module>Component_16</module>
+  	<module>Component_17</module>
+  	<module>Component_18</module>
+  	<module>Component_19</module>
+  	<module>Component_20</module>
+  	<module>Component_21</module>
+  	<module>Component_22</module>
+  	<module>Component_23</module>
+  	<module>Component_24</module>
+  	<module>Component_25</module>
+  	<module>Component_26</module>
+  	<module>Component_27</module>
+  	<module>Component_28</module>
+  	<module>Component_29</module>
+  </modules>
+</project>
