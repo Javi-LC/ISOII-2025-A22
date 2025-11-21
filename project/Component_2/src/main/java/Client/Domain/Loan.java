@@ -1,4 +1,4 @@
-package Domain.Client;
+package Client.Domain;
 
 public class Loan {
 

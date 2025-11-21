@@ -1,4 +1,4 @@
-package Presentation.Client;
+package Client.Presentation;
 
 public class loansAndReservationView {
 
