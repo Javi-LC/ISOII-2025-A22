@@ -1,4 +1,4 @@
-package Persistance.Server;
+package Server.Persistance;
 
 public class Broker {
 

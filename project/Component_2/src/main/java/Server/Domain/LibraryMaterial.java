@@ -1,4 +1,4 @@
-package Domain.Server;
+package Server.Domain;
 
 public class LibraryMaterial {
 

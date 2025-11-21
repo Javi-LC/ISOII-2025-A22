@@ -1,4 +1,4 @@
-package Presentation.Server;
+package Server.Presentation;
 
 public class SystemClientUI {
 
