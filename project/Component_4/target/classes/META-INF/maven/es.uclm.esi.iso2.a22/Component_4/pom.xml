@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <artifactId>project</artifactId>
+    <groupId>es.uclm.esi.iso2.a22</groupId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
 
   <groupId>es.uclm.esi.iso2.a22</groupId>
-  <artifactId>project</artifactId>
+  <artifactId>Component_4</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
 
-  <name>project</name>
+  <name>Component_4</name>
   <url>http://www.example.com</url>
 
   <properties>
@@ -42,22 +45,4 @@
       </plugin>
     </plugins>
   </build>
-  <modules>
-  	<module>Component_1</module>
-  	<module>Component_2</module>
-  	<module>Component_3</module>
-  	<module>Component_4</module>
-  	<module>Component_5</module>
-  	<module>Component_6</module>
-  	<module>Component_7</module>
-  	<module>Component_8</module>
-  	<module>Component_9</module>
-  	<module>Component_10</module>
-  	<module>Component_11</module>
-  	<module>Component_12</module>
-  	<module>Component_13</module>
-  	<module>Component_14</module>
-  	<module>Component_15</module>
-  	<module>Component_16</module>
-  </modules>
 </project>
