@@ -1,4 +1,4 @@
-package Server.Persistence;
+package org.Component_5.Server.Persistence;
 
 public class Agent {
 
@@ -6,7 +6,7 @@ public class Agent {
 	 * 
 	 * @param sql
 	 */
-	public void query(string sql) {
+	public void query(String sql) {
 		// TODO - implement Agent.query
 		throw new UnsupportedOperationException();
 	}

@@ -1,4 +1,4 @@
-package Presentation.Client;
+package org.Component_5.Client.Presentation;
 
 public class StudentUI {
 

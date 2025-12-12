@@ -1,4 +1,4 @@
-package Server.Domain;
+package org.Component_5.Server.Domain;
 
 public class Permission {
 

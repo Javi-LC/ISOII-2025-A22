@@ -1,4 +1,6 @@
-package Server.Presentation;
+package org.Component_5.Server.Presentation;
+
+import org.Component_5.Server.Domain.*;
 
 public class LibraryAPI {
 

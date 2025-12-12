@@ -1,4 +1,4 @@
-package Domain.Client;
+package org.Component_5.Client.Domain;
 
 public class ReadingClub {
 

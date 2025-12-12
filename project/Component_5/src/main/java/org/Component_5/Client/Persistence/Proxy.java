@@ -1,4 +1,4 @@
-package Persistence.Client;
+package org.Component_5.Client.Persistence;
 
 public class Proxy {
 

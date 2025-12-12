@@ -1,9 +1,9 @@
-package Domain.Client;
+package org.Component_5.Client.Domain;
 
 public class StudyGroup {
 
 	private String id;
-	private string name;
+	private String name;
 	private String[] members;
 
 }

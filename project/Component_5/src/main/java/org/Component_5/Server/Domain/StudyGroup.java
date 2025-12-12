@@ -1,8 +1,8 @@
-package Server.Domain;
+package org.Component_5.Server.Domain;
 
 public class StudyGroup {
 
-	private string id;
+	private String id;
 	private String name;
 	private String[] members;
 
