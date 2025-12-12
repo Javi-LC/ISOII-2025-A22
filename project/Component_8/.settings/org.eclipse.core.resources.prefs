@@ -3,5 +3,8 @@
 >>>>>>>=refs/heads/Component_8_Server
 eclipse.preferences.version=1
 encoding//src/main/Client=UTF-8
+<<<<<<< HEAD
 encoding//src/main/Server=UTF-8
+=======
+>>>>>>> refs/heads/Component_8_Client
 encoding/<project>=UTF-8
