@@ -1,9 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+/Domain/
+>>>>>>> refs/remotes/origin/Component_11_Server
 /Presentation/
 /Persistance/
+<<<<<<< HEAD
 /Domain/
 /META-INF/
 =======
 /Domain/
 /Presentation/
 >>>>>>> refs/remotes/origin/Component_11_Client
+=======
+>>>>>>> refs/remotes/origin/Component_11_Server

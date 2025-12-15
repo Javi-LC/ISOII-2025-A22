@@ -1,16 +1,8 @@
 package Persistance;
 
-<<<<<<< HEAD
-import java.net.Proxy;
-
-public class AgentTest {
-
-	public Proxy getProxy() {
-		// TODO - implement Agent.getProxy
-=======
 import java.util.Vector;
 
-public class AgentTest {
+public class Agent {
 
 	private Agent instance;
 
@@ -57,7 +49,6 @@ public class AgentTest {
 
 	public void connect() {
 		// TODO - implement Agent.connect
->>>>>>> refs/remotes/origin/Component_11_Server
 		throw new UnsupportedOperationException();
 	}
 

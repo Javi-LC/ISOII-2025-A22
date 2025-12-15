@@ -2,6 +2,7 @@ package Domain;
 
 public class InventoryTest {
 
+<<<<<<< HEAD
 	private MaterialTest Materials;
 
 	/**
@@ -33,6 +34,34 @@ public class InventoryTest {
 
 	public Inventory getInventory() {
 		// TODO - implement Inventory.getInventory
+=======
+	private MaterialTest MaterialTests;
+
+	/**
+	 * 
+	 * @param name
+	 */
+	public boolean insertMaterial(String name) {
+		// TODO - implement Inventory.insertMaterial
+		throw new UnsupportedOperationException();
+	}
+
+	/**
+	 * 
+	 * @param name
+	 */
+	public boolean deleteMaterial(String name) {
+		// TODO - implement Inventory.deleteMaterial
+		throw new UnsupportedOperationException();
+	}
+
+	/**
+	 * 
+	 * @param name
+	 */
+	public boolean updateMaterial(String name) {
+		// TODO - implement Inventory.updateMaterial
+>>>>>>> refs/remotes/origin/Component_11_Server
 		throw new UnsupportedOperationException();
 	}
 

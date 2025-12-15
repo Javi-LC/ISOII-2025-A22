@@ -2,7 +2,7 @@ package Domain;
 
 public class Inventory {
 
-	private Material MaterialTests;
+	private Material Materials;
 
 	/**
 	 * 
