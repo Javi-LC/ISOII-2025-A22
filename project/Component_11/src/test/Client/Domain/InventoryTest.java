@@ -1,8 +1,8 @@
 package Domain;
 
-public class Inventory {
+public class InventoryTest {
 
-	private Material MaterialTests;
+	private Material Materials;
 
 	/**
 	 * 
@@ -28,6 +28,11 @@ public class Inventory {
 	 */
 	public boolean updateMaterial(String name) {
 		// TODO - implement Inventory.updateMaterial
+		throw new UnsupportedOperationException();
+	}
+
+	public Inventory getInventory() {
+		// TODO - implement Inventory.getInventory
 		throw new UnsupportedOperationException();
 	}
 

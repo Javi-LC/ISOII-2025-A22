@@ -1,15 +1,18 @@
 package Domain;
 
-public class Inventory {
+public class InventoryDAOTest {
 
-	private Material MaterialTests;
+	public Inventory getInventory() {
+		// TODO - implement InventoryDAO.getInventory
+		throw new UnsupportedOperationException();
+	}
 
 	/**
 	 * 
 	 * @param name
 	 */
 	public boolean insertMaterial(String name) {
-		// TODO - implement Inventory.insertMaterial
+		// TODO - implement InventoryDAO.insertMaterial
 		throw new UnsupportedOperationException();
 	}
 
@@ -18,7 +21,7 @@ public class Inventory {
 	 * @param name
 	 */
 	public boolean deleteMaterial(String name) {
-		// TODO - implement Inventory.deleteMaterial
+		// TODO - implement InventoryDAO.deleteMaterial
 		throw new UnsupportedOperationException();
 	}
 
@@ -27,7 +30,7 @@ public class Inventory {
 	 * @param name
 	 */
 	public boolean updateMaterial(String name) {
-		// TODO - implement Inventory.updateMaterial
+		// TODO - implement InventoryDAO.updateMaterial
 		throw new UnsupportedOperationException();
 	}
 
