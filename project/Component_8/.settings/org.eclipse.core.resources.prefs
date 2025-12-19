@@ -1,4 +1,14 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=refs/heads/Component_8_Server
 eclipse.preferences.version=1
-encoding//src/main/java=UTF-8
-encoding//src/test/java=UTF-8
+encoding//src/main/Client=UTF-8
+<<<<<<< HEAD
+encoding//src/main/Server=UTF-8
+<<<<<<< HEAD
+=======
+>>>>>>> refs/heads/Component_8_Client
+=======
+encoding//src/test/Server=UTF-8
+>>>>>>> refs/heads/Component_8_Server
 encoding/<project>=UTF-8
